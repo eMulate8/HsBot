@@ -1,0 +1,2 @@
+# HsBot
+ Bot for Hearthstone
